@@ -1,0 +1,98 @@
+body, html {
+  font-family: 'Cantana One', serif;
+  font-size: 1em;
+  height: 100%;
+  width: 100%;
+  font-weight: 400;
+  /* margin: 0;
+  padding: 0; */
+}
+.bg {
+  /* The image used */
+  background-image: url("https://images.pexels.com/photos/850674/pexels-photo-850674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.center-element {
+  height: 100%;
+  width: 100%;
+  height: auto;
+  width: auto;
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  box-sizing: border-box;
+  margin: auto;
+}
+.navbar {
+  position: relative;
+  top: 10px;
+  height: 90px;
+  margin: 0 auto;
+  background-image: url('plank.png');
+  background-position: center;
+  background-repeat: repeat-x;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  background-size: auto;
+  /* box-shadow: 0px 8px 8px 0px rgba(0,0,0,0.75); */
+}
+li.nav-item {
+  /* top: 10px; */
+  margin-right: 12px;
+  font-weight: 600;
+}
+.navbar-brand {
+  position: relative;
+  text-indent: -5000px;
+  width: 160px;
+  height: 160px;
+  top: 25px;
+  /* border-radius: 40%; */
+  background-image: url('assets/img/logo.jpg');
+  background-position: center;
+  background-size: contain;
+  box-shadow: 0px 8px 8px 0px rgba(0,0,0,0.75);
+}
+.navbar-nav, .navbar-collapse {
+  /* background-color: rgba(0,0,0,0.3); */
+  padding: 5px;
+}
+.logo {
+  height: 65%;
+  min-height: 250px;
+  position: relative;
+}
+
+img {
+  width: 100%;
+}
+.bg-dark {
+    background-color: #343a40!important;
+    background-color: rgba(52,58,64, 0.8)!important;
+
+}
+.modal-content {
+  background-color: rgba(255,255,255,0.9)!important;
+  /* box-shadow: 0px 10px 8px 0px rgba(0,0,0,0.75); */
+}
+footer {
+  position: absolute;
+  z-index: 99;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  background-color: #4C3012;
+  text-align: center;
+  padding: 5px;
+  font-weight: 300;
+  font-style: normal;
+}
