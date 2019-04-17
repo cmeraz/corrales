@@ -11,7 +11,7 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-6">
-              <img src="assets/img/map.png" alt="Map">
+              <img src="assets/img/ubicacion.jpg" alt="Map">
             </div>
               <div class="col-6">
                 <dl class="row">

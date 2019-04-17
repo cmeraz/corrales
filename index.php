@@ -45,6 +45,9 @@
     <!-- Modal - Nosotros -->
     <?php include 'includes/instalaciones.html'; ?>
 
+    <!-- Modal - Clientes -->
+    <?php include 'includes/clientes.html'; ?>
+
     <!-- Modal - Contacto -->
     <?php include 'includes/contacto.php'; ?>
 

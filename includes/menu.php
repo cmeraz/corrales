@@ -12,7 +12,7 @@
             </a>
         </li>
         <li class="nav-item">
-            <a class="nav-link btn btn-secondary" href="#">
+            <a class="nav-link btn btn-secondary" href="#" data-toggle="modal" data-target="#clientes">
               Clientes
             </a>
         </li>
