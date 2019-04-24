@@ -10,10 +10,10 @@
       <div class="modal-body">
         <div class="container-fluid">
           <div class="row">
-            <div class="col-6">
+            <div class="col-sm-6">
               <img src="assets/img/ubicacion.jpg" alt="Map">
             </div>
-              <div class="col-6">
+              <div class="col-sm-6">
                 <dl class="row">
     <dt class="col-sm-3">Direccion:</dt>
     <dd class="col-sm-9">
@@ -49,5 +49,4 @@
       </div>
     </div>
   </div>
-</div>
 </div>

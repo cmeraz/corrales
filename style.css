@@ -101,3 +101,18 @@ footer {
   font-weight: 300;
   font-style: normal;
 }
+
+.navbar-toggler {
+  position: absolute;
+  right: 2em;
+  top: 1em;
+  color: #fff;
+  background-color: #413411;
+  border-color: #413411;
+}
+@media only screen and (max-width: 600px) {
+  .navbar-brand {
+    /* position: absolute; */
+    top: -1em;
+  }
+}
